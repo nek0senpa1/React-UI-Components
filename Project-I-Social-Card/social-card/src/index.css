@@ -20,6 +20,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
+  /*text-decoration: none;*/
 }
 
 .athing {
@@ -29,6 +30,8 @@ body {
 .bthing {
   width: 88%;
 }
+
+
 
 .grey {
   color:gray;
