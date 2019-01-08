@@ -31,7 +31,9 @@ body {
   width: 88%;
 }
 
-
+.nonlink {
+  text-decoration: none;
+}
 
 .grey {
   color:gray;
